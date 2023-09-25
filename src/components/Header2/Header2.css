@@ -1,0 +1,18 @@
+.header-3 {
+  align-items: flex-start;
+  align-self: stretch;
+  justify-content: space-between;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: row;
+
+  gap: 8px;
+  padding: 24px 24px 16px 24px;
+}
+
+.oline-sign-logo-4 {
+  height: 48px;
+  margin-right: -49.12px;
+  min-width: 247.12px;
+}

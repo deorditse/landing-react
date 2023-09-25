@@ -1,0 +1,44 @@
+.column-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  border: 1px none;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 32px;
+  position: relative;
+}
+
+.frame-270988932-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.title-12 {
+  align-self: stretch;
+  letter-spacing: -0.30px;
+  line-height: 28px;
+  margin-top: -1.00px;
+  white-space: nowrap;
+}
+
+.frame-270988931-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.caption-1 {
+  align-self: stretch;
+  letter-spacing: -0.30px;
+  line-height: 36px;
+  margin-top: -1.00px;
+  white-space: nowrap;
+}

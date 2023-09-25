@@ -1,0 +1,46 @@
+.blur-8,
+.blur-9 {
+  border: 1px none;
+  height: 422px;
+  left: 111px;
+  position: absolute;
+  top: 80px;
+  /* width: 302px; */
+}
+
+.ellipse-container-4,
+.ellipse-container-5 {
+  height: 374px;
+  position: relative;
+  top: 48px;
+}
+
+.ellipse-2166-6,
+.ellipse-2166-7 {
+  background-color: var(--cornflower-blue);
+  border: 1px none;
+  border-radius: 96px;
+  filter: blur(164px);
+  ;
+  height: 192px;
+  left: 110px;
+  opacity: 0.5;
+  position: absolute;
+  top: 0;
+  /* width: 192px; */
+}
+
+.ellipse-2167-11,
+.ellipse-2167-12 {
+  background-color: var(--bright-turquoise);
+  border: 1px none;
+  border-radius: 96px;
+  filter: blur(252px);
+  ;
+  height: 192px;
+  left: 0;
+  opacity: 0.34;
+  position: absolute;
+  top: 182px;
+  width: 192px;
+}

@@ -1,0 +1,39 @@
+.otherchands-phone {
+  align-items: flex-end;
+  border: 1px none;
+  display: flex;
+  height: 640px;
+  left: 0;
+  min-width: 640px;
+  padding: 6px 0;
+  position: absolute;
+  top: 0;
+}
+
+.lg-hands-phone-012x {
+  height: 460px;
+  object-fit: cover;
+  width: 640px;
+}
+
+.otherchands-phone.otherchands-phone-1 {
+  height: 495px;
+  min-width: 493px;
+  padding: 4.6px 0;
+}
+
+.otherchands-phone.otherchands-phone-1 .lg-hands-phone-012x {
+  height: 356px;
+  width: 493px;
+}
+
+.otherchands-phone.otherchands-phone-2 {
+  height: 365px;
+  min-width: 363px;
+  padding: 3.4px 0;
+}
+
+.otherchands-phone.otherchands-phone-2 .lg-hands-phone-012x {
+  height: 263px;
+  width: 363px;
+}

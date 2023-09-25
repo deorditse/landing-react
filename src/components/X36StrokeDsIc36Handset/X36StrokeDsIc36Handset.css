@@ -1,0 +1,23 @@
+.x36-stroke-ds_ic_36_handset,
+.x36-stroke-ds_ic_36_handset-1,
+.x36-stroke-ds_ic_36_handset-2,
+.x36-stroke-ds_ic_36_handset-3,
+.x36-stroke-ds_ic_36_handset-4 {
+  border: 1px none;
+  height: 36px;
+  min-width: 36px;
+  position: relative;
+}
+
+.shape,
+.shape-1,
+.shape-2,
+.shape-3,
+.shape-4 {
+  height: 21px;
+  left: 8px;
+  position: absolute;
+  top: 8px;
+  width: 21px;
+}
+

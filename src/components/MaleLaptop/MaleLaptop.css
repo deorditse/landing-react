@@ -1,0 +1,14 @@
+.male-laptop-1 {
+  border: 1px none;
+  height: 372px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 208px;
+  width: 343px;
+}
+
+.male-laptop-1.male-laptop-2 {
+  left: 333px;
+  top: 32px;
+}

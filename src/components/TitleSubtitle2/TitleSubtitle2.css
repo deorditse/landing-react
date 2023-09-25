@@ -1,0 +1,25 @@
+.title-subtitle-10 {
+  align-items: flex-start;
+  align-self: stretch;
+  border: 1px none;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.title-26 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-top: -1.00px;
+  white-space: nowrap;
+}
+
+.subtitle-36 {
+  align-self: stretch;
+  flex: 1;
+  letter-spacing: -0.30px;
+  line-height: 28px;
+}
+

@@ -1,0 +1,58 @@
+.image-hands {
+  border: 1px none;
+  height: 460px;
+  min-width: 640px;
+  overflow: hidden;
+}
+
+.overlap-group {
+  height: 640px;
+  position: relative;
+  top: -174px;
+  width: 640px;
+}
+
+.vector-2-stroke {
+  height: 56px;
+  left: 362px;
+  position: absolute;
+  top: 279px;
+  width: 69px;
+}
+
+.image-hands.image-hands-1 {
+  height: 356px;
+  min-width: 492.65px;
+}
+
+.image-hands.image-hands-1 .overlap-group {
+  height: 495px;
+  top: -135px;
+  width: 493px;
+  background-size: contain;
+}
+
+.image-hands.image-hands-1 .vector-2-stroke {
+  height: 43px;
+  left: 279px;
+  top: 216px;
+  width: 53px;
+}
+
+.image-hands.image-hands-2 {
+  height: 262.62px;
+  min-width: 363.43px;
+}
+
+.image-hands.image-hands-2 .overlap-group {
+  height: 365px;
+  top: -99px;
+  width: 363px;
+}
+
+.image-hands.image-hands-2 .vector-2-stroke {
+  height: 32px;
+  left: 206px;
+  top: 159px;
+  width: 39px;
+}

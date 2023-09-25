@@ -1,0 +1,10 @@
+.center-snacbar {
+    align-content: center;
+}
+
+.snack-mobile {
+    background-color: #ff0000;
+    color: red;
+    align-self: stretch;
+    align-items: stretch;
+}

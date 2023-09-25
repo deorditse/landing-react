@@ -1,0 +1,50 @@
+.footer-mobile {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--cultured-pearl);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  justify-content: center;
+  padding: 64px 16px;
+  width: 100%;
+}
+
+
+.oline-sign-logo-1 {
+  height: 38px;
+  display: flex;
+  width: max-content;
+  justify-content: flex-start;
+  justify-self: self-start;
+  align-self: flex-start;
+  align-items: flex-start;
+  min-width: 227.12px;
+}
+
+
+.text-1-mobile {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  width: 100%;
+}
+
+
+.phone {
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-top: -1.00px;
+  white-space: nowrap;
+  /* width: 400px; */
+  color: #262626;
+}
+
+.podpissberru {
+  letter-spacing: 0;
+  line-height: 32px;
+  white-space: nowrap;
+  /* width: 400px; */
+  color: #262626;
+}

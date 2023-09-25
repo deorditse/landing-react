@@ -1,0 +1,15 @@
+.row-5 {
+  align-items: flex-start;
+  align-self: stretch;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+  justify-content: center;
+  position: relative;
+}
+
+.row-5.row-6 {
+  justify-content: unset;
+}
+

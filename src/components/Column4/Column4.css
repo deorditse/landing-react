@@ -1,0 +1,56 @@
+.column-5,
+.column-6 {
+  align-items: flex-start;
+  align-self: stretch;
+  border: 1px none;
+  display: flex;
+  gap: 32px;
+  position: relative;
+}
+
+.frame-270988932-2,
+.frame-270988932-3 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.title-17,
+.title-18 {
+  align-self: stretch;
+  letter-spacing: -0.30px;
+  line-height: 28px;
+  margin-top: -1.00px;
+  white-space: nowrap;
+}
+
+.frame-270988931-2,
+.frame-270988931-3 {
+  align-items: flex-start;
+  align-self: stretch;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.caption-2,
+.caption-3 {
+  align-self: stretch;
+  letter-spacing: -0.30px;
+  line-height: 36px;
+  margin-top: -1.00px;
+  white-space: nowrap;
+}
+
+.subtitle-23,
+.subtitle-24 {
+  align-self: stretch;
+  letter-spacing: -0.30px;
+  line-height: 28px;
+  white-space: nowrap;
+}
+

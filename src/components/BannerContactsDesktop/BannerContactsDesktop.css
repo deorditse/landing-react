@@ -1,0 +1,59 @@
+.banner-contacts-desktop {
+  align-items: center;
+  background-color: var(--cultured-pearl);
+  border: 1px none;
+  border-radius: 32px;
+  display: flex;
+  justify-content: space-between;
+
+  padding: 48px 64px;
+  width: 1248px;
+
+}
+
+.container-11 {
+  align-items: flex-start;
+  align-self: stretch;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 56px;
+  position: relative;
+  width: 70%;
+}
+
+.head-1 {
+  align-items: center;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  width: 30%,
+}
+
+.title-3 {
+  align-self: stretch;
+  letter-spacing: -0.30px;
+  line-height: 40px;
+  margin-top: -1.00px;
+}
+
+.subtitle-4 {
+  align-self: stretch;
+  letter-spacing: -0.30px;
+  line-height: 32px;
+}
+
+.section-banner {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  justify-content: center;
+  padding: 96px 32px;
+
+  position: relative;
+}

@@ -1,0 +1,72 @@
+.footer {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--cultured-pearl);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  justify-content: center;
+  padding: 56px 120px;
+  width: 100%;
+}
+
+.container-20 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  width: 100%;
+}
+
+.oline-sign-logo-1 {
+  height: 48px;
+  min-width: 247.12px;
+}
+
+.row-1 {
+  align-items: flex-start;
+  align-self: start;
+  width: 100%;
+  border: 1px none;
+  display: flex;
+  justify-content: space-between;
+}
+
+.text-1 {
+  letter-spacing: 0;
+  line-height: 24px;
+  width: 30%;
+  min-width: 200px;
+}
+
+.column-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  width: max-content;
+  /* padding-left: 30px; */
+  /* padding-right: 30px; */
+
+}
+
+.phone {
+  justify-content: start;
+  align-self: center;
+  align-items: center;
+  flex-direction: row;
+  align-items: center;
+  color: #262626;
+}
+
+
+
+.row-info {
+  display: flex;
+  gap: 40px;
+  align-self: self-start;
+}

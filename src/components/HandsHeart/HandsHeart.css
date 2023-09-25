@@ -1,0 +1,39 @@
+.hands-heart {
+  background-position: 50% 50%;
+  height: 100%;
+
+  background-size: cover;
+  position: relative;
+
+}
+
+.hands-heart.hands-heart-1 {
+  height: 356px;
+  top: 0px;
+  width: 424px;
+}
+
+.hands-heart.otherchands-phone-3,
+.hands-heart.otherchands-phone-4 {
+  height: 183px;
+  left: 0;
+  /* position: absolute; */
+  top: 0;
+  width: 343px;
+}
+
+.hands-heart.hands-heart-2 {
+  height: 343px;
+  left: 0;
+  /* position: absolute; */
+  top: 421px;
+  width: 343px;
+}
+
+.hands-heart.hands-heart-3 {
+  height: 343px;
+  left: 166px;
+  /* position: absolute; */
+  top: 293px;
+  width: 343px;
+}

@@ -1,0 +1,40 @@
+.container-26 {
+  align-items: flex-start;
+  align-self: stretch;
+  border: 1px none;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.x-sber-6 {
+  height: 48px;
+  min-width: 48px;
+}
+
+.title-subtitle-6 {
+  align-items: flex-start;
+  align-self: stretch;
+  border: 1px none;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.title-11 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-top: -1.00px;
+  white-space: nowrap;
+}
+
+.subtitle-16 {
+  align-self: stretch;
+  flex: 1;
+  letter-spacing: -0.30px;
+  line-height: 28px;
+}
+

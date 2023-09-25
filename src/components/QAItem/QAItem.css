@@ -1,0 +1,73 @@
+.qa-item,
+.qa-item-1,
+.qa-item-2,
+.qa-item-3,
+.qa-item-4 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--white);
+  border: 1px none;
+  border-radius: 32px;
+  box-shadow: 0px 4px 8px #26262629 , 0px 1px 2px #2626260a;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  padding: 24px 24px 32px;
+}
+
+.container-15,
+.container-16,
+.container-17,
+.container-18,
+.container-19 {
+  align-items: flex-start;
+  align-self: stretch;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.ic_question,
+.ic_question-1,
+.ic_question-2,
+.ic_question-3,
+.ic_question-4 {
+  height: 48px;
+  min-width: 48px;
+}
+
+.title-subtitle-1,
+.title-subtitle-2,
+.title-subtitle-3,
+.title-subtitle-4,
+.title-subtitle-5 {
+  align-items: flex-start;
+  align-self: stretch;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.title-4,
+.title-5,
+.title-6,
+.title-7,
+.title-8 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-top: -1.00px;
+}
+
+.subtitle-8,
+.subtitle-9,
+.subtitle-10,
+.subtitle-11,
+.subtitle-12 {
+  align-self: stretch;
+  letter-spacing: -0.30px;
+  line-height: 28px;
+}
+

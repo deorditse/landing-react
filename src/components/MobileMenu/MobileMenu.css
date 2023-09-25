@@ -1,0 +1,8 @@
+.column-menu {
+    flex-direction: column;
+}
+
+.column_mobile_menu {
+    padding: 8px;
+    background-color: rebeccapurple;
+}
